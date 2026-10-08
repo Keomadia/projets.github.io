@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: Mes Projets
-description: A collection of my projects
+theme: jekyll-theme-cayman
+title: My Projects
+description: A collection of things I've built, learned, and shipped.
+show_downloads: false
